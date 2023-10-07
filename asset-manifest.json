@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Students-Directories/static/css/main.39e8834d.css",
+    "main.js": "/Students-Directories/static/js/main.82b9ff03.js",
+    "index.html": "/Students-Directories/index.html",
+    "main.39e8834d.css.map": "/Students-Directories/static/css/main.39e8834d.css.map",
+    "main.82b9ff03.js.map": "/Students-Directories/static/js/main.82b9ff03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e8834d.css",
+    "static/js/main.82b9ff03.js"
+  ]
+}
